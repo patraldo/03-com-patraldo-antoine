@@ -9,7 +9,7 @@ import '@material/web/checkbox/checkbox.js';
 </div>
 
 <label>
-  Material 2
+  Material 3
   <md-checkbox checked></md-checkbox>
 </label>
 
