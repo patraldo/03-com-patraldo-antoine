@@ -1,3 +1,23 @@
+<script>
+import '@material/web/button/filled-button.js';
+import '@material/web/button/outlined-button.js';
+import '@material/web/checkbox/checkbox.js';
+</script>
+
+<div class='material'>
+<a href = "mailto:antoine@pataldo.com"><md-filled-button>Email</md-filled-button></a>
+</div>
+
+<label>
+  Material 2
+  <md-checkbox checked></md-checkbox>
+</label>
+
+<md-outlined-button>Back</md-outlined-button>
+<md-filled-button>Next</md-filled-button>
+
+
+
 <div class='email'>
 <h1 style="font-size:7vw;"><a href = "mailto:antoine@patraldo.com">Email</a></h1>
 </div>
@@ -6,10 +26,23 @@
 </div>
 
 
+
+
 <style>
 
 
 @import url('https://fonts.googleapis.com/css2?family=Marmelad&family=Pacifico&family=Special+Elite&family=Tangerine:wght@400;700&family=Ultra&display=swap');
+
+.material {
+border: 10px dotted black;
+ background: goldenrod;
+ background-clip: padding-box;
+font-family: 'Special Elite';
+margin: 10px;
+padding: 10px;
+text-align: center;
+color: black;
+}
 
 a, a:hover, a:active, a:visited, a:focus {
 color: black;
