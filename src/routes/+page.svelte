@@ -18,13 +18,13 @@
 </div>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Marmelad&family=Pacifico&family=Special+Elite&family=Tangerine:wght@400;700&family=Ultra&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Marmelad&family=Pacifico&family=Special+Elite&family=Tangerine:wght@400;700&family=Ultra&display=swap');
 
 .bienvenido {
 border: 10px dotted black;
  background: #827179;
  background-clip: padding-box;
-font-family: 'Special Elite';
+font-family: 'Bungee Spice';
 margin: 10px;
 padding: 10px;
 text-align: center;
@@ -42,9 +42,6 @@ text-align: center;
 color: black;
 }
 
-.musa a:hover {
-color: green;
-}
 .desc {
 border: 10px dotted black;
  background: #6c8ea9;
@@ -56,9 +53,6 @@ text-align: center;
 color: white;
 }
 
-.desc a:hover {
-color: green;
-}
 
 </style>
 
